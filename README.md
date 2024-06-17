@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Margi-0306
-- 👀 I’m interested in Filed of Data science
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on Data analyst and Data science Projects
+I am a software engineer at Tech Mahindra with over two years of experience in software development. Currently, I am expanding my expertise by learning machine learning. I am actively seeking opportunities to leverage my background in software engineering and my growing skills in machine learning to contribute to innovative projects in this field.
 - 📫 How to reach me :https://www.linkedin.com/in/margi-m-6937791aa/ & margimishra1998@gmail.com
-- 😄 Pronouns: She/Her
+
 
 
 <!---
